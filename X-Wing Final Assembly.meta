@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "X-Wing Final Assembly",
+  "VehicleName": "X-Wing",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Early Access Initial Launch\\Workspaces\\X-Wing Final Assembly.png",
+  "Mass": 37.53643,
+  "SaveTime": 638153024366627822,
+  "Parts": 814,
+  "Stages": 9,
+  "IsAutoSave": false,
+  "CampaignName": "Early Access Initial Launch",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}
